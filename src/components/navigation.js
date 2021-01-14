@@ -6,6 +6,7 @@ const Navigation = () => {
     <div className='max-h-screen w-screen bg-gray-200 flex flex-col justify-center md:flex-row md:rounded-t-full'>
       <div className='flex justify-center items-center'>
         <img src={YOURLOGO} alt='logo' />
+        <h1>Actions</h1>
       </div>
       <div className='flex flex-col items-center md:flex-row md:justify-between'>
         <nav className='flex flex-col items-center md:flex-row md:justify-between lg:mx-8'>

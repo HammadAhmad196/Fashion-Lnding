@@ -9,7 +9,6 @@ const HomePage = () => {
     <div className='min-h-screen w-screen flex flex-col'>
       <div className='relative'>
         <img src={bgimage} alt='' className='w-screen'/>
-        <h1>Actions</h1>
       </div>
       <div className='flex flex-col justify-end absolute md:self-end md:px-56 md:py-32 lg:self-end lg:mt-48'>
         <h1 className='font-Poppins text-sm'>NEW TREND</h1>
