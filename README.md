@@ -70,7 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ## Deployment
-This section has moved here: https://youthful-carson-44c597.netlify.app (App is deployed on netlify)
-2) https://goofy-sinoussi-c9f045.netlify.app (know the second link )
+This section has moved here: https://dazzling-swartz-da4e90.netlify.app/ (App is deployed on netlify)
 
 "# Fashion-Lnding" 
