@@ -70,6 +70,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ## Deployment
-This section has moved here: https://dazzling-swartz-da4e90.netlify.app/ (App is deployed on netlify)
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### Live App Available On Netlify: https://dazzling-swartz-da4e90.netlify.app/ (App link Preview on Netlify)
 
 "# Fashion-Lnding" 
